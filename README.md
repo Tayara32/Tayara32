@@ -15,7 +15,7 @@
 - 📊 **Análise de Dados**: Python, Pandas
 
 ## 📈 GitHub Stats  
-![Tayara's GitHub stats](https://github.com/Tayara32)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tayara32)
 
 📫 **Entre em contato:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/tayara-cruz-0b055970/)  
