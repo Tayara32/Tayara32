@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, sou Tayara!  
 
-<!--
-**Tayara32/Tayara32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedora apaixonada por tecnologia e aprendizado contínuo.  
+🎯 Foco em **Java | Análise de Dados**  
 
-Here are some ideas to get you started:
+## 💻 Sobre mim  
+🔹 Bacharel em Gestão
+🔹 Transição de carreira
+🔹 Explorando novas tecnologias para criar soluções inovadoras  
+🔹 Acredito que cada desafio é uma oportunidade de aprendizado  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas  
+- 🖥️ **Linguagens**: Java, C#, SQL, JS, PHP
+- 🔧 **Frameworks**: ASP.NET, Laravel, React
+- 📊 **Análise de Dados**: Python, Pandas
+
+## 📈 GitHub Stats  
+![Tayara's GitHub stats](https://github.com/Tayara32)
+
+📫 **Entre em contato:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/tayara-cruz-0b055970/)  
